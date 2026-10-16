@@ -23,7 +23,7 @@ Explorez mes dépôts pour découvrir mes projets, mes expérimentations et les 
 ### 💻 Langages maîtrisés
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,css,js,html" alt="Java, C#, C++, CSS, JavaScript et HTML" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,css,js,html,python" alt="Java, C#, C++, CSS, JavaScript et HTML" />
   <br />
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
