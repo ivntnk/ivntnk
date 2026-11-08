@@ -10,7 +10,7 @@
 - **Administration système :** Installation, configuration et gestion de serveurs en local, en baie ou à distance.
 - **Gestion de serveurs :** Mise en place d'environnements, configuration de panels d'administration et initialisation de serveurs.
 
-### 🚀 Ce qui m'intéresse
+### 🚀 Ce qui m'intéresse :
 
 J'aime concevoir des solutions adaptées à mes besoins, expérimenter de nouvelles technologies et développer des projets qui allient **fonctionnalité, simplicité et efficacité**.
 
