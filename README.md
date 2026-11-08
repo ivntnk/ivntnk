@@ -1,4 +1,4 @@
-<h1 align="center">👋 À propos de moi</h1>
+<h1 align="center">👋 À propos de moi - ivn_tnk</h1>
 
 💻 Développeur principalement en **C# et Java**, je me concentre sur la création de logiciels, d'outils personnalisés et de plugins pour **Minecraft**.
 
